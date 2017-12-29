@@ -1,13 +1,14 @@
-# clustering
+# CLUSTERING
 
 # 陆续补充
 ----
 # Foundation Particle
+基础聚类方法
 # k-means
 # 
 ----
 # PARTICLE ONE
-涉及传统的
+传统的聚类方法的一些新idea（陆续添加）
 # 一、 DP （density peaks）
 出自science-Clustering by fast sesarch and find of density peaks
 # 二、 AP （affinity propagation）
@@ -15,4 +16,6 @@
 
 -----
 #PARTICLE TWO
-涉及半监督聚类的
+
+涉及半监督学习的聚类方法
+
