@@ -4,30 +4,26 @@ Clustering
 |---|---|
 |E-mail|li940703a@gmail.com
 
-## 陆续补充中（2017.12.29）
+##### 陆续补充中（2017.12.29）
 ----
-#  PARTICLE One
+##  PARTICLE One
 Foundation
 基础聚类方法
-## k-means
-## 
+#### k-means
+#### 
 ----
-# PARTICLE Two
+## PARTICLE Two
 传统的聚类方法的一些新idea（陆续添加）
-## 一、 DP （density peaks）
+#### 一、 DP （density peaks）
 出自science--Clustering by fast sesarch and find of density peaks
-## 二、 AP （affinity propagation）
+#### 二、 AP （affinity propagation）
 出自science--Clustering by Passing Messages Between Data Points
 
 -----
-# PARTICLE Three
+## PARTICLE Three
 
 涉及半监督学习的聚类方法
-## constraint-based
+#### constraint-based
 
-## distance-based
+#### distance-based
 
-
-
-----
-E-mail: li940703a@gmail.com
