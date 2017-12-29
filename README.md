@@ -2,7 +2,8 @@
 
 ## 陆续补充中（2017.12.29）
 ----
-# Foundation Particle
+#  PARTICLE One
+Foundation
 基础聚类方法
 # k-means
 # 
