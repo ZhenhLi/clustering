@@ -5,8 +5,8 @@
 #  PARTICLE One
 Foundation
 基础聚类方法
-# k-means
-# 
+## k-means
+## 
 ----
 # PARTICLE Two
 传统的聚类方法的一些新idea（陆续添加）
@@ -20,6 +20,7 @@ Foundation
 
 涉及半监督学习的聚类方法
 ## constraint-based
+
 ## distance-based
 
 
