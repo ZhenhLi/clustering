@@ -1,6 +1,6 @@
 # Clustering
 
-## 陆续补充
+## 陆续补充中（2017.12.29）
 ----
 # Foundation Particle
 基础聚类方法
