@@ -7,7 +7,7 @@ Clustering
 ##### 陆续补充中（2017.12.29）
 ****
 ### 目录
-* [Particle One - Fundation]（#PARTICLE One）
+* [Particle One - Fundation]
 * [Particle Two - New Idea]
 * [Particle Three - Semi-Supervised Clustering]
 ****
