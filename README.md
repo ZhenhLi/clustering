@@ -1,5 +1,9 @@
 # Clustering
 
+|作者|Zhenhua Li|
+|---|---|
+|E-mail|li940703a@gmail.com
+
 ## 陆续补充中（2017.12.29）
 ----
 #  PARTICLE One
