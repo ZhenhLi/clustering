@@ -1,4 +1,4 @@
-# CLUSTERING
+# Clustering
 
 # 陆续补充
 ----
@@ -7,7 +7,7 @@
 # k-means
 # 
 ----
-# PARTICLE ONE
+# PARTICLE Two
 传统的聚类方法的一些新idea（陆续添加）
 # 一、 DP （density peaks）
 出自science-Clustering by fast sesarch and find of density peaks
@@ -15,7 +15,8 @@
 出自science-Clustering by Passing Messages Between Data Points
 
 -----
-#PARTICLE TWO
+#PARTICLE Three
 
 涉及半监督学习的聚类方法
-
+# constraint-based
+## distance-based
